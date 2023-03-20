@@ -11,8 +11,8 @@
 </p>
 <p align="center">
 
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+
+  <summary><h2>🛠️ My Favorite Programming languages, Frameworks and Tools</h2></summary>
   
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -81,6 +81,6 @@
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
      
   </p>
-</details>
+
 
 
