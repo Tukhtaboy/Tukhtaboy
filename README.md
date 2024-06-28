@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<h3 align="center"> Experienced data engineer specializing in Software Development, ETL processes, data quality checks, and real-time data processing using technologies such as Apache Airflow, Apache Kafka, and Apache Spark. Skilled in data visualization using tools like Power BI and Tableau. Passionate about learning and staying up-to-date with the latest technologies in the Software Engineering.  </h3>
+<h3 align="center"> Experienced Software Engineer specializing in Software Development, ETL processes, data quality checks, and real-time data processing using technologies such as Apache Airflow, Apache Kafka, and Apache Spark. Skilled in data visualization using tools like Power BI and Tableau. Passionate about learning and staying up-to-date with the latest technologies in the Software Engineering.  </h3>
 </p>
 <p align="center">
 
