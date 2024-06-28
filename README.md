@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Engineer!;ETL+Developer!;Big+Data+Enthusiast!;Data+Analyst!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer!;ETL+Developer!;Big+Data+Enthusiast!;Data+Analyst!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 <p align="center">
-<h3 align="center"> Experienced data engineer specializing in ETL processes, data quality checks, and real-time data processing using technologies such as Apache Airflow, Apache Kafka, and Apache Spark. Skilled in data visualization using tools like Power BI and Tableau. Passionate about learning and staying up-to-date with the latest technologies in the field.  </h3>
+<h3 align="center"> Experienced data engineer specializing in Software Development, ETL processes, data quality checks, and real-time data processing using technologies such as Apache Airflow, Apache Kafka, and Apache Spark. Skilled in data visualization using tools like Power BI and Tableau. Passionate about learning and staying up-to-date with the latest technologies in the Software Engineering.  </h3>
 </p>
 <p align="center">
 
